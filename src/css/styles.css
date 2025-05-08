@@ -25,6 +25,6 @@
     font-display: swap;
 }
 
-body {
+body, p {
     font-family: 'GT America', Arial, Helvetica, sans-serif;
 }
